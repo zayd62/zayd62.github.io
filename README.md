@@ -1,7 +1,7 @@
 # zayd62.github.io
 User site. auto generated using github api and [mkdocs-material](https://github.com/squidfunk/mkdocs-material "mkdocs-material"). The file ```generate.py``` does all the work and does the following:
 
-1. contacts github api and returns the following
+1. contacts github api and returns the following for each repository
    1. repository name
    2. README.md
    3. github pages url
